@@ -1,0 +1,102 @@
+[
+  {
+    "id": "dd85e01b-18d0-4a2a-95d8-dcc31c864dc3",
+    "titulo": "Business Systems Development Analyst",
+    "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "type": "Transporte",
+    "project": "Proyecto 4",
+    "expireDate": "3/19/2021",
+    "asignedMember": "Roma",
+    "author": "Ulrike"
+  },
+  {
+    "id": "ecba11aa-4ec6-4772-a7bd-989a92ec21f2",
+    "titulo": "Information Systems Manager",
+    "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "type": "Transporte",
+    "project": "Proyecto 2",
+    "expireDate": "8/16/2021",
+    "asignedMember": "Stevy",
+    "author": "Anny"
+  },
+  {
+    "id": "110d76ab-9088-4e80-a7c3-0b1d4ce5ccd8",
+    "titulo": "Nuclear Power Engineer",
+    "description": "Fusce consequat. Nulla nisl. Nunc nisl.",
+    "type": "Inventario",
+    "project": "Proyecto 2",
+    "expireDate": "1/13/2021",
+    "asignedMember": "Maje",
+    "author": "Maribeth"
+  },
+  {
+    "id": "8d451f89-ec32-42c8-a473-1b77f9323a5f",
+    "titulo": "Geological Engineer",
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "type": "Compra producto",
+    "project": "Proyecto 2",
+    "expireDate": "10/12/2020",
+    "asignedMember": "Donn",
+    "author": "Tine"
+  },
+  {
+    "id": "2d901a9d-37c8-4162-bbfd-e8dccf5e8248",
+    "titulo": "VP Sales",
+    "description": "In congue. Etiam justo. Etiam pretium iaculis justo.",
+    "type": "Inventario",
+    "project": "Proyecto 2",
+    "expireDate": "2/20/2021",
+    "asignedMember": "Rip",
+    "author": "Doris"
+  },
+  {
+    "id": "55837d99-2edf-4220-abd2-9ddc4d716ee5",
+    "titulo": "Information Systems Manager",
+    "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "type": "Transporte",
+    "project": "Proyecto 2",
+    "expireDate": "5/22/2021",
+    "asignedMember": "Art",
+    "author": "Michaella"
+  },
+  {
+    "id": "6f0eed76-ded1-482c-9ff9-04a04689a998",
+    "titulo": "Legal Assistant",
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "type": "Alquiler",
+    "project": "Proyecto 2",
+    "expireDate": "7/9/2021",
+    "asignedMember": "Raff",
+    "author": "Ronda"
+  },
+  {
+    "id": "b79a470f-6628-4fa1-bfac-229e14c58b68",
+    "titulo": "Engineer II",
+    "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "type": "Inventario",
+    "project": "Proyecto 4",
+    "expireDate": "6/13/2021",
+    "asignedMember": "Gabie",
+    "author": "Renelle"
+  },
+  {
+    "id": "a50504d0-5c5f-4b2d-8b6a-a713fba526e8",
+    "titulo": "Budget/Accounting Analyst III",
+    "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "type": "Alquiler",
+    "project": "Proyecto 2",
+    "expireDate": "9/29/2020",
+    "asignedMember": "Vernen",
+    "author": "Catlaina"
+  },
+  {
+    "id": "dac69825-6c7d-4f44-8c90-dc5fc7d8e6fe",
+    "titulo": "Senior Sales Associate",
+    "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+    "type": "Alquiler",
+    "project": "Proyecto 2",
+    "expireDate": "6/30/2021",
+    "asignedMember": "Avery",
+    "author": "Bobbi"
+  }
+]
